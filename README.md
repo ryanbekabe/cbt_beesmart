@@ -1,2 +1,2 @@
 # cbt
-aplikasi untuk ujian berbasis web, pengembangan dari beesmart (from php5 to php7)
+Aplikasi untuk ujian berbasis web, pengembangan dari BeeSmart (php5 / php7 works of both)
